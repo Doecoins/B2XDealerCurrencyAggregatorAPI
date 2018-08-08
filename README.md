@@ -23,7 +23,6 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | `xem`  | NEM  | `crw` | Crown | `ark`| ARK | `ok`  | OkCash  |
 | `xvg`  | Verge | `xzc` | Zcoin | `bsd`| BitSend | `ubq`  | Ubiq  |
 | `brx`  | Breakout-Stake | `bch` | *Bitcoin-Cash* | `part`| Particl | `ptc`  | Pesetacoin  |
-| `qtum`  | Qtum  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `bay`  | BitBay | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `sys`  | SysCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-
+| `qtum`  | Qtum  | `Stellar` | xlm | `ada`| Cardano | `trx`  | TRON  |
+| `bay`  | BitBay | `sc` | Siacoin | `powr`| PowerLedger | `omg`  | OmiseGO  |
+| `sys`  | SysCoin | `2give` | 2GIVE | `srn`| Sirin | `pink`  | PinkCoin  |
