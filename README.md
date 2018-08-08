@@ -10,16 +10,16 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 
 ## Buy/Sell
 
-| Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
-| -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :---| :----:| -----:|
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `doge` | Dogecoin| `ppc` | Peercoin| `vtc`| Vertcoin | `ftc`  | Feathercoin  | `blk`   | Blackcoin  | 
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | 
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  |
+| Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
+| -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :---| 
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `doge` | Dogecoin| `ppc` | Peercoin| `vtc`| Vertcoin | `ftc`  | Feathercoin  | 
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | 
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
