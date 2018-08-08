@@ -10,9 +10,9 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 
 ## Buy/Sell
 
-| Symbol | Name- | Symbol | Symbol | Coins | Coins | Coins | Coins | Coins | Coins |
-| -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :----:| :----:| -----:|
-| btc    | bitcoin   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
+| -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :---| :----:| -----:|
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
 | btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
 | btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
 | btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
