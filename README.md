@@ -27,6 +27,9 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | `bay`  | BitBay | `sc` | Siacoin | `powr`| PowerLedger | `omg`  | OmiseGO  |
 | `sys`  | SysCoin | `2give` | 2GIVE | `srn`| Sirin | `pink`  | PinkCoin  |
 
-[https://api.iblockchainbank.eu/market/coin/bt](https://api.iblockchainbank.eu/market/coin/btc)
+### How to Check Exchange Limits per Transaction for Doecoins.com
 
-https://api.iblockchainbank.eu/market/coin/ `symbol`
+[https://api.iblockchainbank.eu/market/coin/`<symbol>`/]
+
+> EXAMPLE -- [https://api.iblockchainbank.eu/market/coin/btc/]
+
