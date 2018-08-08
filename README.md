@@ -32,7 +32,7 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 * available liquidity, 
 * buy value, 
 * sell value, 
-* trade volume
+* trading volume on IBBT
 
 [https://api.iblockchainbank.eu/market/coin/`<symbol>`/]
 
