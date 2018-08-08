@@ -12,7 +12,7 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 
 | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
 |:-------:|:-----| :-----:| :----|:-----:| :----| :----:| :---| 
-|`btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+|`btc`  | *bitcoin* | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
 | `nxt` | NXT   |  `doge` | dogecoin| `ppc`| Peercoin | `vtc`  | Vertcoin  | 
 | `ftc`  | feathercoin | `blk` | blackcoin | `cloak`| Cloakcoin | `via`  | Viacoin  |
 | `dgb`  | digibyte | `dash` | Dash | `eth`| **Ethereum** | `grs`  | Groestlcoin  |
@@ -21,8 +21,8 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | `rdd`  | redcoin | `arbr` | Ardor | `zec`| Zcash | `nav`  | Navcoin  |
 | `aby`  | ArtByte | `strat` | Stratis | `pivx`| PIVX | `rads`  | Radium  |
 | `xem`  | NEM  | `crw` | Crown | `ark`| ARK | `ok`  | OkCash  |
-| `xvg`  | Verge | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `brx`  | Breakout-Stake | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xvg`  | Verge | `xzc` | Zcoin | `bsd`| BitSend | `ubq`  | Ubiq  |
+| `brx`  | Breakout-Stake | `bch` | *Bitcoin-Cash* | `part`| Particl | `ptc`  | Pesetacoin  |
 | `qtum`  | Qtum  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
 | `bay`  | BitBay | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
 | `sys`  | SysCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
