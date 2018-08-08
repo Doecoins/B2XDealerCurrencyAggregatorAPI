@@ -13,7 +13,8 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
 | -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :---| :----:| -----:|
 | `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
-| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
+| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | `nxt`   | Nxt  | doge  |
