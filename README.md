@@ -27,7 +27,12 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | `bay`  | BitBay | `sc` | Siacoin | `powr`| PowerLedger | `omg`  | OmiseGO  |
 | `sys`  | SysCoin | `2give` | 2GIVE | `srn`| Sirin | `pink`  | PinkCoin  |
 
-### How to Check Exchange Aggregate values per Symbol (available liquidity, buy value, sell value, trade volume)
+### How to Check Exchange Aggregate values per Symbol 
+
+* available liquidity, 
+* buy value, 
+* sell value, 
+* trade volume
 
 [https://api.iblockchainbank.eu/market/coin/`<symbol>`/]
 
