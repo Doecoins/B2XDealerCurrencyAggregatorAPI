@@ -13,13 +13,31 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
 |-------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :---| 
 |`btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `nxt` | Nxt   |  `doge` | dogecoin| `ppc`| Peercoin | `vtc`  | Vertcoin  | 
+| `nxt` | NXT   |  `doge` | dogecoin| `ppc`| Peercoin | `vtc`  | Vertcoin  | 
 | `ftc`  | feathercoin | `blk` | blackcoin | `cloak`| Cloakcoin | `via`  | Viacoin  |
 | `dgb`  | digibyte | `dash` | Dash | `eth`| **Ethereum** | `grs`  | Groestlcoin  |
 | `rvr`  | RevolutionVR | `xmr` | Monero | `lsk`| Lisk | `waves`  | **Waves**  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  | 
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
-| `btc`  | bitcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `emc`  | EmerCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `emc`  | EmerCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `emc`  | EmerCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `emc`  | EmerCoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `rdd`  | redcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `rdd`  | redcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `rdd`  | redcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `rdd`  | redcoin | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `aby`  | ArtByte | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `aby`  | ArtByte | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `aby`  | ArtByte | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `aby`  | ArtByte | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xem`  | NEM  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xem`  | NEM  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xem`  | NEM  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xem`  | NEM  | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xvg`  | Verge | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xvg`  | Verge | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xvg`  | Verge | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `xvg`  | Verge | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `brx`  | Breakout-Stake | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `brx`  | Breakout-Stake | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `brx`  | Breakout-Stake | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+| `brx`  | Breakout-Stake | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
