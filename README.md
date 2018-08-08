@@ -26,3 +26,7 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 | `qtum`  | Qtum  | `Stellar` | xlm | `ada`| Cardano | `trx`  | TRON  |
 | `bay`  | BitBay | `sc` | Siacoin | `powr`| PowerLedger | `omg`  | OmiseGO  |
 | `sys`  | SysCoin | `2give` | 2GIVE | `srn`| Sirin | `pink`  | PinkCoin  |
+
+[https://api.iblockchainbank.eu/market/coin/bt](https://api.iblockchainbank.eu/market/coin/btc)
+
+https://api.iblockchainbank.eu/market/coin/ `symbol`
