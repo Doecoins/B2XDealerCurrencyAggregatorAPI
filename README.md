@@ -10,10 +10,10 @@ B2X is a cryptocurrency liquidity aggregator for margin and exchange trading whi
 
 ## Buy/Sell
 
-| Coins | Coins | Coins | Coins | Coins | Coins | Coins | Coins | Coins | Coins |
-| ------|:-----:| :----:| :----:|:-----:| :----:| :----:| :----:| :----:| -----:|
-| btc   | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc   | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc   | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc   | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
-| btc   | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| Symbol | Name- | Symbol | Symbol | Coins | Coins | Coins | Coins | Coins | Coins |
+| -------|:-----:| :-----:| :----:|:-----:| :----:| :----:| :----:| :----:| -----:|
+| btc    | bitcoin   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
+| btc    | ltc   | doge  | btc   | ltc   | doge  | doge  | ltc   | doge  | doge  |
