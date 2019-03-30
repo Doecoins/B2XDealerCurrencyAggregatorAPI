@@ -15,7 +15,7 @@ B²X is a cryptocurrency liquidity aggregator for margin and exchange trading wh
 |`btc`  | *bitcoin* | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
 | `nxt` | NXT   |  `doge` | dogecoin| `ppc`| Peercoin | `vtc`  | Vertcoin  | 
 | `ftc`  | feathercoin | `blk` | blackcoin | `cloak`| Cloakcoin | `via`  | Viacoin  |
-| `dgb`  | digibyte | `dash` | Dash | `eth`| **Ethereum** | `grs`  | Groestlcoin  |
+| `dgb`  | digibyte | `dash` | Dash | `eth`| **[Ethereum](https://api.iblockchainbank.eu/market/coin/eth)** | `grs`  | Groestlcoin  |
 | `rvr`  | RevolutionVR | `xmr` | Monero | `lsk`| Lisk | `waves`  | **Waves**  |
 | `emc`  | EmerCoin | `xmy` | MyriadCoin | `brk`| Breakout | `etc`  | **EthereumClassic**  |
 | `rdd`  | redcoin | `arbr` | Ardor | `zec`| Zcash | `nav`  | Navcoin  |
