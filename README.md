@@ -12,10 +12,10 @@ B²X is a cryptocurrency liquidity aggregator for margin and exchange trading wh
 
 | Symbol | Name | Symbol | Name | Symbol | Name | Symbol | Name |
 |:-------:|:-----| :-----:| :----|:-----:| :----| :----:| :---| 
-|`btc`  | *bitcoin* | `ltc` | litcoin | `ngl`| Gulden | `xrp`  | Ripple  |
+|`btc`  | *bitcoin* | `ltc` | litecoin | `ngl`| Gulden | `xrp`  | [Ripple](https://api.iblockchainbank.eu/market/coin/xrp/)  |
 | `nxt` | NXT   |  `doge` | dogecoin| `ppc`| Peercoin | `vtc`  | Vertcoin  | 
 | `ftc`  | feathercoin | `blk` | blackcoin | `cloak`| Cloakcoin | `via`  | Viacoin  |
-| `dgb`  | digibyte | `dash` | Dash | `eth`| **[Ethereum](https://api.iblockchainbank.eu/market/coin/eth)** | `grs`  | Groestlcoin  |
+| `dgb`  | digibyte | `dash` | Dash | `eth`| **[Ethereum](https://api.iblockchainbank.eu/market/coin/eth/)** | `grs`  | Groestlcoin  |
 | `rvr`  | RevolutionVR | `xmr` | Monero | `lsk`| Lisk | `waves`  | **Waves**  |
 | `emc`  | EmerCoin | `xmy` | MyriadCoin | `brk`| Breakout | `etc`  | **EthereumClassic**  |
 | `rdd`  | redcoin | `arbr` | Ardor | `zec`| Zcash | `nav`  | Navcoin  |
